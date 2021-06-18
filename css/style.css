@@ -371,7 +371,7 @@ input,textarea,select{
     position: relative;
 }
 .about .about-content .skill .skill-item{
-    margin-bottom: 10px;
+    margin-bottom: 20px;
 }
 .about .about-content .skill .skill-item .progress .progress-in{
     position: absolute;
